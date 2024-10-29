@@ -1,6 +1,8 @@
 Css -> padding, margin, dll
 bootstrap -> component, responsive
+row bisa menerapkan flexbox class: row justify-content-center
 
+penggunaan container
 
 <-- Navbar -->
 container
@@ -14,8 +16,11 @@ rounded-circle
 img-thumbnail
 getwaves.io
 
+
 <-- about -->
+- div child dari row bisa ditengahkan menggunakan text-center
 - text-center
+- col sampe 12
 - row
    - col
 - row
@@ -25,3 +30,9 @@ getwaves.io
 - row di bootstrap 5 bisa flexbox row justify-content-center
 - fs-5
 - mt, mb, ms, me : 0, 1, 2, 3, 4, 5 (value)
+
+
+<-- Projects -->
+- Card ga pake width akan memenuhi lebar col
+- breakpoint
+- col-md-4     -> akan diterapkan column 4 saat md jika kurang dari md maka hanya 1 column
