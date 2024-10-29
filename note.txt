@@ -2,14 +2,26 @@ Css -> padding, margin, dll
 bootstrap -> component, responsive
 
 
-*Navbar
+<-- Navbar -->
 container
 container-fluid
 navbar-light, navbar-dark
 shadow-sm
 
-*Jumbotron
+<-- Jumbotron -->
 Jumbotron ada di Bootstrap versi 4
 rounded-circle
 img-thumbnail
 getwaves.io
+
+<-- about -->
+- text-center
+- row
+   - col
+- row
+   - col
+   - col
+
+- row di bootstrap 5 bisa flexbox row justify-content-center
+- fs-5
+- mt, mb, ms, me : 0, 1, 2, 3, 4, 5 (value)
