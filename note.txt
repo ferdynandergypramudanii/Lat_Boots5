@@ -2,3 +2,9 @@
 container
 container-fluid
 navbar-light, navbar-dark
+shadow-sm
+
+*Jumbotron
+Jumbotron ada di Bootstrap versi 4
+rounded-circle
+img-thumbnail
