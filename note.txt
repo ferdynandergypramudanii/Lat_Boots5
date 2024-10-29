@@ -1,3 +1,7 @@
+Css -> padding, margin, dll
+bootstrap -> component, responsive
+
+
 *Navbar
 container
 container-fluid
@@ -8,3 +12,4 @@ shadow-sm
 Jumbotron ada di Bootstrap versi 4
 rounded-circle
 img-thumbnail
+getwaves.io
